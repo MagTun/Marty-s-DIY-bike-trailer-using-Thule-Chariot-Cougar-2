@@ -1,7 +1,5 @@
 ![image](https://github.com/MagTun/Marty-s-DIY-bike-trailer-using-Thule-Chariot-Cougar-2/assets/15843700/a33152cd-71af-4b5e-9334-3f374b3a880d)
 
-
-<p dir="ltr" style="line-height: 1.3800000000000001; margin-right: -13.5pt; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #0000ff; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(To you Marty: if you pinned this comment, it will stay on top, and people won't have to read all comments to find this list. The last "important" thing missing is the size of the hooks : are they M5, M6 or M8?).&nbsp;&nbsp;</span></p>
 <p><strong id="docs-internal-guid-9351dbf6-7fff-c2d5-0a7c-e07b9932b460" style="font-weight: normal;">&nbsp;</strong></p>
 <p dir="ltr" style="line-height: 1.3800000000000001; margin-right: -13.5pt; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">List of material and other specs/prices for Marty's "DIY Budget Bike Trailer" : https://www.youtube.com/watch?v=XZO2oH-2QGE
 
